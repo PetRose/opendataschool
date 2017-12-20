@@ -10,3 +10,9 @@ Der er allerede fri adgang til en lang række åbne data og åbnes løbende op f
 [Danmarks Miljøportal](http://www.miljoeportal.dk/) udstiller en række data på miljøområdet.
 
 [OpenstreetMap](http://osm.org)
+
+[Open Banking - EU Payment Services Directive](https://en.wikipedia.org/wiki/Payment_Services_Directive)
+
+-[Danske Bank Payment Services](https://danskebank.com/openbanking)
+
+-[Nordea Open Banking](https://developer.nordeaopenbanking.com)
